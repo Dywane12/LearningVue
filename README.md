@@ -37,5 +37,5 @@ Built an In-progress/Completed dynamic list
 
 #### Episode 4: Your First Vue Component
 
-
-
+We can create custom components just like div, ul, li, p, h1 etc. with custom; 
+We can use template: ``, so that whatever is in that template gets "copy-pasted" when that custom component is called
