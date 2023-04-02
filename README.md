@@ -4,8 +4,8 @@ This is a repository where I will put my testing apps while I'm learning Vue3
 I am following this tutorial for now, and once I finish it I will move to another tutorial
 that has longed videos and probably more in-depth/detailed things.
 
-Tutorial 1: https://www.youtube.com/watch?v=BZwn47RPiAM&list=PL3VM-unCzF8jX-GoazLPcbi7M0wJux8F-&ab_channel=Laracasts
-Tutorial 2:https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1&ab_channel=TheNetNinja
+####Tutorial 1: https://www.youtube.com/watch?v=BZwn47RPiAM&list=PL3VM-unCzF8jX-GoazLPcbi7M0wJux8F-&ab_channel=Laracasts
+####Tutorial 2:https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1&ab_channel=TheNetNinja
 
 ### Tutorial 1 notes
 
