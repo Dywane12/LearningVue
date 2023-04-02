@@ -11,7 +11,7 @@ Tutorial 2:https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60
 
 #### Episode 1: The absolute basics
 
-Nothing much happened, we initialized Vue3 with <script></script> in the <head> part of the html document
+#####Nothing much happened, we initialized Vue3 with <script></script> in the <head> part of the html document
 We set up a Hello World using {{ greeting }} and some javascript
 We made an input that has v-model="variable-name" (in this case, 'greeting') and it updates the greetin in real time
 And we made a javascript that changes the "greeting" to "Changed" after 3 seconds putting that in mounted() and using setTimeout
