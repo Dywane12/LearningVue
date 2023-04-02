@@ -9,6 +9,7 @@ that has longed videos and probably more in-depth/detailed things.
 
 ### Tutorial 1 notes
 
+
 #### Episode 1: The absolute basics
 
 Nothing much happened, we initialized Vue3 with <script></script> in the <head> part of the html document;
@@ -19,6 +20,7 @@ We made an input that has v-model="variable-name" (in this case, 'greeting') and
   
 And we made a javascript that changes the "greeting" to "Changed" after 3 seconds putting that in mounted() and using setTimeout.
 
+  
 #### Episode 2: Attribute Binding and Event Handling
 
 So we can bind classes defined in vue (buttonClasses: 'text-green' in this example) and with using v-bind:class="buttonClasses" 
@@ -34,6 +36,7 @@ We also did a "on/off switch" which is really cool;
   
 Just like v-bind, you can write '@' instead of 'v-on'. 
 
+  
 #### Episode 3: Lists, Conditionals, and Computed Properties
 
 We used v-for="<for loop here>" to use a loop and iterate over things we put in the script; 
@@ -48,6 +51,7 @@ Used v-show="<conditional here>" sets display: none if conditional is false;
   
 Built an In-progress/Completed dynamic list. 
 
+  
 #### Episode 4: Your First Vue Component
 
 We can create custom components just like div, ul, li, p, h1 etc. with custom;
