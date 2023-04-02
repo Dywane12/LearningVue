@@ -20,7 +20,6 @@ We made an input that has v-model="variable-name" (in this case, 'greeting') and
   
 And we made a javascript that changes the "greeting" to "Changed" after 3 seconds putting that in mounted() and using setTimeout.
 
-  
 #### Episode 2: Attribute Binding and Event Handling
 
 So we can bind classes defined in vue (buttonClasses: 'text-green' in this example) and with using v-bind:class="buttonClasses" 
