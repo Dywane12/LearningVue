@@ -65,10 +65,14 @@ We can put the custom component code in a .js file with the 'export default' at 
 #### Episode 6: Component Props
 
 Set up a local server
-  
+
 Exported 'app'
-  
+
 Added props to the component in the AppButton.js
-  
+
 Made it so that the button picks up information 'from the outside world'
+
+#### Episode 7: Bring it All Together
+
+Built the same Assignements list (in progress/completed with checkbox) but structured in multiple .js files, and it is way cleaner and easier to understand
 
