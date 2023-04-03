@@ -57,3 +57,8 @@ We can create custom components just like div, ul, li, p, h1 etc. with custom;
   
 We can use template: ``, so that whatever is in that template gets "copy-pasted" when that custom component is called.
   
+
+#### Episode 5: One Vue Component Per File
+
+We can put the custom component code in a .js file with the 'export default' at the beginning, and then we can import it in the html file
+
