@@ -75,5 +75,6 @@ Made it so that the button picks up information 'from the outside world'
 #### Episode 7: Bring it All Together
 
 Built the same Assignements list (in progress/completed with checkbox) but structured in multiple .js files, components in different files and components props;
+  
 It is way cleaner and easier to understand
 
