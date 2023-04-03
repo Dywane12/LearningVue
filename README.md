@@ -65,7 +65,10 @@ We can put the custom component code in a .js file with the 'export default' at 
 #### Episode 6: Component Props
 
 Set up a local server
+  
 Exported 'app'
+  
 Added props to the component in the AppButton.js
+  
 Made it so that the button picks up information 'from the outside world'
 
