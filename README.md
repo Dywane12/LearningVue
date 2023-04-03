@@ -62,3 +62,7 @@ We can use template: ``, so that whatever is in that template gets "copy-pasted"
 
 We can put the custom component code in a .js file with the 'export default' at the beginning, and then we can import it in the html file
 
+#### Episode 6: Component Props
+
+
+
