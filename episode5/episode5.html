@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8" />
-    <title>Episode 6</title>
+    <title>Episode 5</title>
     <script src="https://unpkg.com/vue@3"></script>
     <script src="https://cdn.tailwindcss.com"></script>
 
@@ -11,13 +11,18 @@
 <body class="h-full grid place-items-center">
 
     <div id="app">
-        <app-button type="primary">Submit</app-button>
+        <app-button>Submit</app-button>
     </div>
 
     <script type="module">
-        import App from "./episode 6/js/components/App.js";
+        import AppButton from "./js/components/AppButton.js";
+        let app={
+            components: {
+                'app-button': AppButton,
+            }
+        };
 
-        Vue.createApp(App).mount('#app');
+        Vue.createApp(app).mount('#app');
     </script>
 </body>
 </html>
